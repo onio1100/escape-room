@@ -3,3 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+:root{
+    --background: #49F065;
+    --dark-detail: #021505;
+    --light-blue: #47D4F0;
+    --dark-blue: #F047D4;
+    --pink: #F0479C;
+    --brown: #F06347;
+}
+body{
+    background-color: var(--background);
+    position: relative;
+}
